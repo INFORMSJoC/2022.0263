@@ -12,15 +12,10 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 @article{sherzer2023SupervisedGG1,
   author =        {Baron, Opher and Krass, Dmitry and Senderovich, Arik and Sherzer, Eliran},
-  
   publisher =     {INFORMS Journal on Computing},
-  
   title =         {Supervised ML for Solving the GI/GI/1 queue},
-  
   year =          {2023},
-  
   doi =           {10.1287/ijoc.2022.0263.cd},
-  
   url =           {https://github.com/INFORMSJoC/2022.0263},
 }  
 
