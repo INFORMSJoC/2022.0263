@@ -22,7 +22,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## The following package includes:
 
-### 1. Sampling code of a G/G/1 queue.
+### 1. Sampling code of a G/G/1 queue. 
 ### 2. The Neural network prediciton model of a G/G/1 queue.
 ### 3. G/G/1 data sets.
 
